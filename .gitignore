@@ -1,0 +1,10 @@
+.m2/
+tools/maven/
+node_modules/
+.env
+*.log
+app/.chrome-tmp/
+app/.dsh-*
+tools/maven-portable/
+tools/maven-portable.zip
+
